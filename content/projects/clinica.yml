@@ -1,0 +1,6 @@
+title: Sistema de gestão para clínicas (Em desenvolvimento)
+description: Criado para facilitar o gerenciamento de clinicas médicas, incluindo agendamentos e prontuários eletrônicos. Desenvolvido com Vuejs, Shadcn-Vue, Inertia.js, Laravel e MySQL.
+image: "/images/clinica.png"
+url: "#"
+tags: ["SaaS", "Laravel"]
+date: "2025"

@@ -1,0 +1,6 @@
+title: Inforprime Site
+description: Site institucional e de documentação para a Inforprime, uma empresa de soluções tecnológicas. Desenvolvido com Vuejs, Inertia.js, Laravel e MySQL.
+image: "/images/inforprime.png"
+url: "https://inforprime.com.br/"
+tags: ["SaaS", "FullStack"]
+date: "2025"

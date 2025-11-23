@@ -1,0 +1,6 @@
+title: Sistema de ponto Simples
+description: Criado para facilitar o controle de ponto dos funcionários em pequenas e médias empresas. Desenvolvido com Laravel, FilamentPHP, Livewire e MySQL.
+image: "/images/ponto.png"
+url: "#"
+tags: ["FullStack", "Livewire"]
+date: "2025"

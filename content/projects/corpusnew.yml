@@ -1,0 +1,6 @@
+title: Sistema de gerenciamento de academias
+description: Criado para facilitar o gerenciamento de academias, incluindo controle de pagamentos, com integração futura para impressão automática de treinos com base no Check-in. Desenvolvido com Laravel, FilamentPHP, Livewire e MySQL.
+image: "/images/corpus_new.png"
+url: "#"
+tags: ["FullStack", "Livewire"]
+date: "2025"
